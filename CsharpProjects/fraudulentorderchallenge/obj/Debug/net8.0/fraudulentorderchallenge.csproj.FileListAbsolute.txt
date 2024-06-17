@@ -1,0 +1,14 @@
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\fraudulentorderchallenge\bin\Debug\net8.0\fraudulentorderchallenge.exe
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\fraudulentorderchallenge\bin\Debug\net8.0\fraudulentorderchallenge.deps.json
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\fraudulentorderchallenge\bin\Debug\net8.0\fraudulentorderchallenge.runtimeconfig.json
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\fraudulentorderchallenge\bin\Debug\net8.0\fraudulentorderchallenge.dll
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\fraudulentorderchallenge\bin\Debug\net8.0\fraudulentorderchallenge.pdb
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\fraudulentorderchallenge\obj\Debug\net8.0\fraudulentorderchallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\fraudulentorderchallenge\obj\Debug\net8.0\fraudulentorderchallenge.AssemblyInfoInputs.cache
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\fraudulentorderchallenge\obj\Debug\net8.0\fraudulentorderchallenge.AssemblyInfo.cs
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\fraudulentorderchallenge\obj\Debug\net8.0\fraudulentorderchallenge.csproj.CoreCompileInputs.cache
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\fraudulentorderchallenge\obj\Debug\net8.0\fraudulentorderchallenge.dll
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\fraudulentorderchallenge\obj\Debug\net8.0\refint\fraudulentorderchallenge.dll
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\fraudulentorderchallenge\obj\Debug\net8.0\fraudulentorderchallenge.pdb
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\fraudulentorderchallenge\obj\Debug\net8.0\fraudulentorderchallenge.genruntimeconfig.cache
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\fraudulentorderchallenge\obj\Debug\net8.0\ref\fraudulentorderchallenge.dll

@@ -1,0 +1,14 @@
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\Subscriptiontest\obj\Debug\net8.0\Subscriptiontest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\Subscriptiontest\obj\Debug\net8.0\Subscriptiontest.AssemblyInfoInputs.cache
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\Subscriptiontest\obj\Debug\net8.0\Subscriptiontest.AssemblyInfo.cs
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\Subscriptiontest\obj\Debug\net8.0\Subscriptiontest.csproj.CoreCompileInputs.cache
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\Subscriptiontest\bin\Debug\net8.0\Subscriptiontest.exe
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\Subscriptiontest\bin\Debug\net8.0\Subscriptiontest.deps.json
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\Subscriptiontest\bin\Debug\net8.0\Subscriptiontest.runtimeconfig.json
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\Subscriptiontest\bin\Debug\net8.0\Subscriptiontest.dll
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\Subscriptiontest\bin\Debug\net8.0\Subscriptiontest.pdb
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\Subscriptiontest\obj\Debug\net8.0\Subscriptiontest.dll
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\Subscriptiontest\obj\Debug\net8.0\refint\Subscriptiontest.dll
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\Subscriptiontest\obj\Debug\net8.0\Subscriptiontest.pdb
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\Subscriptiontest\obj\Debug\net8.0\Subscriptiontest.genruntimeconfig.cache
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\Subscriptiontest\obj\Debug\net8.0\ref\Subscriptiontest.dll

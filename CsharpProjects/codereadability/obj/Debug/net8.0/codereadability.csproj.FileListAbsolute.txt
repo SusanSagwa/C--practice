@@ -1,0 +1,14 @@
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\codereadability\bin\Debug\net8.0\codereadability.exe
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\codereadability\bin\Debug\net8.0\codereadability.deps.json
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\codereadability\bin\Debug\net8.0\codereadability.runtimeconfig.json
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\codereadability\bin\Debug\net8.0\codereadability.dll
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\codereadability\bin\Debug\net8.0\codereadability.pdb
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\codereadability\obj\Debug\net8.0\codereadability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\codereadability\obj\Debug\net8.0\codereadability.AssemblyInfoInputs.cache
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\codereadability\obj\Debug\net8.0\codereadability.AssemblyInfo.cs
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\codereadability\obj\Debug\net8.0\codereadability.csproj.CoreCompileInputs.cache
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\codereadability\obj\Debug\net8.0\codereadability.dll
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\codereadability\obj\Debug\net8.0\refint\codereadability.dll
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\codereadability\obj\Debug\net8.0\codereadability.pdb
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\codereadability\obj\Debug\net8.0\codereadability.genruntimeconfig.cache
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\codereadability\obj\Debug\net8.0\ref\codereadability.dll

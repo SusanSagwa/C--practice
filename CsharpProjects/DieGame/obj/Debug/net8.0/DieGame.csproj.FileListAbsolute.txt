@@ -1,0 +1,14 @@
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\DieGame\bin\Debug\net8.0\DieGame.exe
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\DieGame\bin\Debug\net8.0\DieGame.deps.json
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\DieGame\bin\Debug\net8.0\DieGame.runtimeconfig.json
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\DieGame\bin\Debug\net8.0\DieGame.dll
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\DieGame\bin\Debug\net8.0\DieGame.pdb
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\DieGame\obj\Debug\net8.0\DieGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\DieGame\obj\Debug\net8.0\DieGame.AssemblyInfoInputs.cache
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\DieGame\obj\Debug\net8.0\DieGame.AssemblyInfo.cs
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\DieGame\obj\Debug\net8.0\DieGame.csproj.CoreCompileInputs.cache
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\DieGame\obj\Debug\net8.0\DieGame.dll
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\DieGame\obj\Debug\net8.0\refint\DieGame.dll
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\DieGame\obj\Debug\net8.0\DieGame.pdb
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\DieGame\obj\Debug\net8.0\DieGame.genruntimeconfig.cache
+C:\Users\Heather\OneDrive\Desktop\C# practice\CsharpProjects\DieGame\obj\Debug\net8.0\ref\DieGame.dll
